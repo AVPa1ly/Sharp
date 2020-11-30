@@ -1,0 +1,16 @@
+D:\Progs\C#\Lab3\СonfigurationManager\bin\Debug\netstandard2.0\CfgManager.deps.json
+D:\Progs\C#\Lab3\СonfigurationManager\bin\Debug\netstandard2.0\CfgManager.dll
+D:\Progs\C#\Lab3\СonfigurationManager\bin\Debug\netstandard2.0\CfgManager.pdb
+D:\Progs\C#\Lab3\СonfigurationManager\obj\Debug\netstandard2.0\CfgManager.csproj.CoreCompileInputs.cache
+D:\Progs\C#\Lab3\СonfigurationManager\obj\Debug\netstandard2.0\CfgManager.AssemblyInfoInputs.cache
+D:\Progs\C#\Lab3\СonfigurationManager\obj\Debug\netstandard2.0\CfgManager.AssemblyInfo.cs
+D:\Progs\C#\Lab3\СonfigurationManager\obj\Debug\netstandard2.0\CfgManager.dll
+D:\Progs\C#\Lab3\СonfigurationManager\obj\Debug\netstandard2.0\CfgManager.pdb
+D:\Progs\C#\Lab3\CfgManager\bin\Debug\netstandard2.0\CfgManager.deps.json
+D:\Progs\C#\Lab3\CfgManager\bin\Debug\netstandard2.0\CfgManager.dll
+D:\Progs\C#\Lab3\CfgManager\bin\Debug\netstandard2.0\CfgManager.pdb
+D:\Progs\C#\Lab3\CfgManager\obj\Debug\netstandard2.0\CfgManager.csproj.CoreCompileInputs.cache
+D:\Progs\C#\Lab3\CfgManager\obj\Debug\netstandard2.0\CfgManager.AssemblyInfoInputs.cache
+D:\Progs\C#\Lab3\CfgManager\obj\Debug\netstandard2.0\CfgManager.AssemblyInfo.cs
+D:\Progs\C#\Lab3\CfgManager\obj\Debug\netstandard2.0\CfgManager.dll
+D:\Progs\C#\Lab3\CfgManager\obj\Debug\netstandard2.0\CfgManager.pdb

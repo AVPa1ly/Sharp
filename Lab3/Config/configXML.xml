@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configurations>
+  <configuration name="Lab3">
+    <archivePath>C:\Users\user\Documents\TargetDirectory\ArchiveDir</archivePath>
+    <sourcePath>C:\Users\user\Documents\SourceDirectory</sourcePath>
+	<targetPath>C:\Users\user\Documents\TargetDirectory</targetPath>
+  </configuration>
+</configurations>

@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\C#\Sem3\Lab2\Lab2Lib\bin\Debug\netstandard2.0\Lab2Lib.deps.json
+C:\Users\User\Desktop\C#\Sem3\Lab2\Lab2Lib\bin\Debug\netstandard2.0\Lab2Lib.dll
+C:\Users\User\Desktop\C#\Sem3\Lab2\Lab2Lib\bin\Debug\netstandard2.0\Lab2Lib.pdb
+C:\Users\User\Desktop\C#\Sem3\Lab2\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Sem3\Lab2\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Sem3\Lab2\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Sem3\Lab2\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.dll
+C:\Users\User\Desktop\C#\Sem3\Lab2\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.pdb
+C:\Users\User\Desktop\C#\Sem3\Lab2\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.csprojAssemblyReference.cache
+D:\Progs\C#\Lab3\Lab2Lib\bin\Debug\netstandard2.0\Lab2Lib.deps.json
+D:\Progs\C#\Lab3\Lab2Lib\bin\Debug\netstandard2.0\Lab2Lib.dll
+D:\Progs\C#\Lab3\Lab2Lib\bin\Debug\netstandard2.0\Lab2Lib.pdb
+D:\Progs\C#\Lab3\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.csproj.CoreCompileInputs.cache
+D:\Progs\C#\Lab3\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.AssemblyInfoInputs.cache
+D:\Progs\C#\Lab3\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.AssemblyInfo.cs
+D:\Progs\C#\Lab3\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.dll
+D:\Progs\C#\Lab3\Lab2Lib\obj\Debug\netstandard2.0\Lab2Lib.pdb

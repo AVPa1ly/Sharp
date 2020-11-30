@@ -1,0 +1,12 @@
+D:\Progs\C#\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Progs\C#\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Progs\C#\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Progs\C#\Lab3\Lab3\bin\Debug\CfgManager.dll
+D:\Progs\C#\Lab3\Lab3\bin\Debug\Lab2Lib.dll
+D:\Progs\C#\Lab3\Lab3\bin\Debug\CfgManager.pdb
+D:\Progs\C#\Lab3\Lab3\bin\Debug\Lab2Lib.pdb
+D:\Progs\C#\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Progs\C#\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Progs\C#\Lab3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+D:\Progs\C#\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Progs\C#\Lab3\Lab3\obj\Debug\Lab3.pdb
