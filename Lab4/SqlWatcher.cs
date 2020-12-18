@@ -12,35 +12,6 @@ namespace Lab4
             ConnectionString = @"Data Source=" + sqlServer + ";Initial Catalog=" + dbName + ";Integrated Security=" + integratedSecurity;
         }
 
-        public object[] GetUserInfo(string mail, string password)
-        {
-            using (SqlConnection sqlConnection = new SqlConnection(ConnectionString))
-            {
-                sqlConnection.Open();
-                using (SqlCommand sqlCommand = new SqlCommand("dbo.GetUserInfo", sqlConnection))
-                {
-                    sqlCommand.CommandType = System.Data.CommandType.StoredProcedure;
-                    sqlCommand.Parameters.AddWithValue("@Email", mail);
-                    sqlCommand.Parameters.AddWithValue("@Password", password);
-                    using (SqlDataReader sqlDataReader = sqlCommand.ExecuteReader())
-                    {
-
-                        if (sqlDataReader.HasRows)
-                        {
-                            object[] objects = new object[sqlDataReader.FieldCount];
-                            sqlDataReader.Read();
-                            sqlDataReader.GetValues(objects);
-                            return objects;
-                        }
-                        else
-                        {
-                            return null;
-                        }
-                    }
-                }
-            }
-        }
-
         public object[][] GetLastUserInfo(System.DateTime date)
         {
             using (SqlConnection connection = new SqlConnection(ConnectionString))
